@@ -10,7 +10,5 @@
 
 
 
-
-
 ------
 Misty States are being used with permission from Terry Rudolph, author of Q is for Quantum.

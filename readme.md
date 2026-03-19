@@ -13,4 +13,4 @@ How misty states change when gates are applied.
 
 
 ------
-Misty States are being used with permission from Terry Rudolph, authoer of Q is for Quantum.
+Misty States are being used with permission from Terry Rudolph, author of Q is for Quantum.
